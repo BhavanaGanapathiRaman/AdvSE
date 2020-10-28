@@ -1,0 +1,5 @@
+18,Reserve,Bowling1,11/1/2020,18:00:00,60,8,10,10,jerry,Athletic,Bhavana098,,,,,
+22,Reserve,Bowling1,11/1/2020,18:00:00,60,8,10,10,jerry,Atheletic,Bhavana098,Please correct the following errors,No more than 1 atheletic event can be booked per day,,,
+23,Reserve,Movie1,11/1/2010,18:00:00,60,8,99,100,jerry,show,Bhavana098,Please correct the following errors,No more than 2 show events can be booked per day,,,
+1,Reserve,Bowling1,11/1/2020,18:00:00,60,8,11,10,jerry,Athletic,Bhavana098,Please correct the following errors,,,,Number of Attendees cannot be higher than Capacity
+2,listEvents,Bowling1,10/28/2020,22:00:00,60,8,10,10,jerry,Athletic,Bhavana098,,,,,
